@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @NicPaz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=nicpaz&theme=cobalt&show_icons=true&cache_seconds=2300" alt="ilustração do status do github">
 
-<!---
-NicPaz/NicPaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Oi, meu nome é Nicole Paz!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=NicPaz&color=c577c2&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Estudo Análise e Desenvolvimento de Sistemas no IFPR</p>
+<p>Estagio como desenvolvedora no Itapu Parquetech. </p>
+
+### 🚀 Minhas Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,bootstrap,javascript,java,spring,python,mysql,html,css&theme=dark)](https://skillicons.dev)
