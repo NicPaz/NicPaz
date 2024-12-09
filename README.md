@@ -11,7 +11,7 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=%23FF3E00" />
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=%23D83A7D" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=%23141321&color=%23A9FEF7" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23141321&color=%23E7C944" />
+  <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=%23141321&color=%23E7C944" />
 </div><br/>
 
 ## GitHub Stats ⚡
