@@ -14,18 +14,6 @@
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-F7DF1E?style=for-the-badge&logo=laravel&logoColor=%23141321&color=%23E7C944" />
 </div><br/>
 
-## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/Gabrielle-Ribeiro">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicPaz&show_icons=true&theme=radical" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicPaz&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
-
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolepazbueno/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nic.paz/) 
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicoliveeira@gmail.com)](mailto:nicoliveeira@gmail.com)
